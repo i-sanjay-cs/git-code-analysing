@@ -13,8 +13,7 @@ The GitHub Repository Analyzer uses the following steps to determine the most te
 
 It uses [Langchain](https://langchain.com/), OpenAI API (gpt-3.5-turbo model), and FAISS as vector store which efficient Prompt Engineering under the hood. It considers different factors for determining the most complex repository such as algorithmic complexity, code complexity, coupling and cohesion between classes and modules, cyclomatic complexity, number of contributions, pull requests, issues, and other relevant metrics.
 
-## Demo
-[Demo](https://jitin-git-repo.streamlit.app/)
+
 ## Getting Started
 
 These instructions will help you set up the project and run it on your local machine.
@@ -99,12 +98,6 @@ Contributions to the GitHub Repository Analyzer are welcome! If you find any iss
 
 The GitHub Repository Analyzer was inspired by the Github Automated Analysis Project by Mercor. It utilizes the power of GPT and LangChain, both of which are incredible technologies.
 
-## Contact
 
-If you have any questions or need further assistance, please feel free to contact me at the following email address
-
-- Jitin (jitinchekka2@gmail.com)
-
-Happy analyzing and coding!
 
 
